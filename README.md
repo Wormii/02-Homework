@@ -25,3 +25,4 @@ Refactoring code to make it more accessible
 - Renamed benefits class into an aside semantic element
 - Consolidated several main content classes while retaining their unique ids to preserve navbar function
 - Further consolidated latter main content classes into a section html semantic element
+- Simplified footer class into a footer semantic element
