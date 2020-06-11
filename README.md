@@ -26,3 +26,4 @@ Refactoring code to make it more accessible
 - Consolidated several main content classes while retaining their unique ids to preserve navbar function
 - Further consolidated latter main content classes into a section html semantic element
 - Simplified footer class into a footer semantic element
+- Added comments to the css to make it quicker to read at a glance
