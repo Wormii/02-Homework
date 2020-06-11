@@ -102,7 +102,7 @@ aside {
     max-width: 150px;
 }
 
-.maincontent {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ aside {
     color: #ffffff;
 }
 
-.maincontent img {
+section img {
     max-height: 200px;
 }
 
-.maincontent h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
