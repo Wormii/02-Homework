@@ -18,3 +18,4 @@ Refactoring code to make it more accessible
 - Described the background "hero" image
 - Removed extraneous code from the .seo class in the .css file
 - Cleaned up the header class into just being a header semantic element
+- Cleaned up header div into a nav semantic element
