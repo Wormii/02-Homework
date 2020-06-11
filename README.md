@@ -16,3 +16,4 @@ Refactoring code to make it more accessible
 - The search engine optimization link was found dysfunctional; fixed by making it consistent with the other two sections by adding a class of the same name as its id.
 - Added alts for the 3 images in the sections that detail the company services.
 - Described the background "hero" image
+- Removed extraneous code from the .seo class in the .css file
