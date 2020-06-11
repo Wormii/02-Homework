@@ -17,3 +17,4 @@ Refactoring code to make it more accessible
 - Added alts for the 3 images in the sections that detail the company services.
 - Described the background "hero" image
 - Removed extraneous code from the .seo class in the .css file
+- Cleaned up the header class into just being a header semantic element
