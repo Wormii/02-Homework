@@ -19,3 +19,4 @@ Refactoring code to make it more accessible
 - Removed extraneous code from the .seo class in the .css file
 - Cleaned up the header class into just being a header semantic element
 - Cleaned up header div into a nav semantic element
+- Cleaned up the div class content into a main semantic element
