@@ -9,6 +9,7 @@ Refactoring code to make it more accessible
 - Verified every image had an alt or description
 - Split up some convoluted parts of the code
 - Started looking to clean up the div soup with alternative html tags
+- Began consolidating .css classes
 
 # Functional changes
 
@@ -20,3 +21,4 @@ Refactoring code to make it more accessible
 - Cleaned up the header class into just being a header semantic element
 - Cleaned up header div into a nav semantic element
 - Cleaned up the div class content into a main semantic element
+- Consolidated the several .benefit classes into catch-all .benefit, .benefit img, and .benefit h3 classes
