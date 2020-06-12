@@ -6,6 +6,8 @@ Refactoring code to make it more accessible. Including things like removing extr
 
 ![image](https://user-images.githubusercontent.com/65047802/84466111-7aaec000-ac2d-11ea-89eb-3b64b0036421.png)
 ![image](https://user-images.githubusercontent.com/65047802/84466299-f1e45400-ac2d-11ea-86b8-21a6837ec1d2.png)
+_leading into..._
+![image](https://user-images.githubusercontent.com/65047802/84466489-5a333580-ac2e-11ea-83b7-59e42dc41677.png)
 
 An example of some code cleaned up with semantic elements and a descriptive comment to make code easier to find and understand at a glance, and the portion of the deployed webpage to which it refers.
 
