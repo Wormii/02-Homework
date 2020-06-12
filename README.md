@@ -1,5 +1,7 @@
 # 02-Homework
 
+https://jam-madrigal.github.io/02-Homework/
+
 Refactoring code to make it more accessible. Including things like removing extraneous code, adding comments, simplifying elements and ids.
 
 # Getting-started
