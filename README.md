@@ -5,8 +5,9 @@ https://jam-madrigal.github.io/02-Homework/
 Refactoring code to make it more accessible. Including things like removing extraneous code, adding comments, simplifying elements and ids. Some broken functionality was also restored.
 
 ![image](https://user-images.githubusercontent.com/65047802/84466111-7aaec000-ac2d-11ea-89eb-3b64b0036421.png)
+![image](https://user-images.githubusercontent.com/65047802/84466299-f1e45400-ac2d-11ea-86b8-21a6837ec1d2.png)
 
-An example of some code cleaned up with semantic elements and a descriptive comment to make code easier to find and understand at a glance.
+An example of some code cleaned up with semantic elements and a descriptive comment to make code easier to find and understand at a glance, and the portion of the deployed webpage to which it refers.
 
 # Getting-started
 
