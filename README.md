@@ -6,7 +6,7 @@ Refactoring code to make it more accessible. Including things like removing extr
 
 ![image](https://user-images.githubusercontent.com/65047802/84466111-7aaec000-ac2d-11ea-89eb-3b64b0036421.png)
 
-An example of some code cleaned up with semantic elements.
+An example of some code cleaned up with semantic elements and a descriptive comment to make code easier to find and understand at a glance.
 
 # Getting-started
 
